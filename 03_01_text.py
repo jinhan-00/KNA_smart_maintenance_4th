@@ -22,8 +22,8 @@
 code = "설비"
 st = "상태"
 check_date = "2026.10.21"
-run_hour = int(4)
-
+# run_hour = int(4)
+run_hour = 4
 card = "[설비 정보 카드]\n" + "설비: " + code + "\n" + "상태: " + st + "\n" + "점검일: " + check_date + "\n" + "가동시간: " + str(run_hour) + "시간"
 
 print(card)
