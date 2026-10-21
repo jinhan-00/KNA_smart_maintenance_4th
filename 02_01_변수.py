@@ -89,3 +89,8 @@
 # z=3
 # width, height = 4,3
 # print(width),print(height)
+
+# git push
+# git add .
+# git commit -m"멘트"
+# git log
