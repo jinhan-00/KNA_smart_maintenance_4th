@@ -1,0 +1,29 @@
+[33mcommit e684aaab9eee5dc2e15428d1223ec6bdb338b8b0[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: 진한-00 <mjh3982@gmail.com>
+Date:   Wed Oct 21 10:53:01 2026 +0900
+
+    업로드
+
+[33mcommit 93f57206d83615e3c2b3f1255528ec2671992bc9[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: 진한-00 <mjh3982@gmail.com>
+Date:   Tue Oct 20 16:55:09 2026 +0900
+
+    변경내용 업데이트
+
+[33mcommit 8881ed70f151f5f2316a95201819d35acc9ac1b7[m
+Author: 진한-00 <mjh3982@gmail.com>
+Date:   Tue Oct 20 11:20:34 2026 +0900
+
+    add README.md
+
+[33mcommit 4a4bfe78f57d66a353af5b28b671d88254bba912[m
+Author: jinhan-00 <mjh3982@gmail.com>
+Date:   Tue Oct 20 11:10:44 2026 +0900
+
+    add pull_test.py with a print statement
+
+[33mcommit 4be78cd63cb2ce8d9b79de722cbae4404711d88f[m
+Author: 진한-00 <mjh3982@gmail.com>
+Date:   Mon Oct 19 17:09:14 2026 +0900
+
+    변경 내용을 설명하는 메시지
